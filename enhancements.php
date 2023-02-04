@@ -90,7 +90,7 @@
 			<!--hyperlink to where the enhancement located-->
 			<p>
 				Please click on the button below to link to where this enhancement is located.<br>
-				<button class="bt" onclick="window.location.href='topic.html';">Description Page</button>
+				<button class="bt" onclick="window.location.href='topic.php';">Description Page</button>
 			</p>
 		</section>
 		<section>
@@ -161,9 +161,9 @@
 
 			<p class="but">
 				Please click on these buttons below to link to where this enhancement located.<br>
-				<button class="bt" onclick="window.location.href='history.html';">History page </button>
+				<button class="bt" onclick="window.location.href='history.php';">History page </button>
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-				<button class="bt" onclick="window.location.href='index.html';">Dropdown</button>
+				<button class="bt" onclick="window.location.href='index.php';">Dropdown</button>
 			</p>
 
 		</section>
@@ -230,7 +230,7 @@
 			<!--hyperlink to where the enhancement located-->
 			<p>
 				Please click on this button to link to where this enhancement located.<br>
-				<button class="bt" onclick="window.location.href='index.html';">Home Page</button>
+				<button class="bt" onclick="window.location.href='index.php';">Home Page</button>
 			</p>
 		</section>
 		<section>
