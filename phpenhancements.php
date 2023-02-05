@@ -17,8 +17,8 @@
     <section>
         <h2><span class="highlight">Normalise the structure of tables</span></h2>
         <!--how it goes beyond the basic requirements of the assignment -->
-			  <p>&nbsp;&nbsp;&nbsp;For the requirement of this assignment, it required us to create only one table, which is an attempt table. However, the data for 
-        students will be similar across the record. So, our group decided to reduce this redundancy by creating a separate table named 'student' to store student id, 
+			  <p>&nbsp;&nbsp;&nbsp;For the requirement of this assignment, it required me to create only one table, which is an attempt table. However, the data for 
+        students will be similar across the record. So, I decided to reduce this redundancy by creating a separate table named 'student' to store student id, 
         first name, and last name. Another benefit of organizing related-data items stored in the same location is we can execute updates or delete the data quickly 
         because there are no duplicated data in several places. Each table has one primary key that serves as a key element because data on the table are sorted 
         based on the primary key. It also creates and maintains referential integrity(foreign key). In other words, the primary key is the element that links 
@@ -54,7 +54,7 @@
     
         <h2><span class="highlight">Granting access to the supervisor web page </span></h2>
         <!--how it goes beyond the basic requirements of the assignment -->
-			  <p>&nbsp;&nbsp;&nbsp;Our group provided more secure access to the supervisor page by allowing only the people in charge can access the page. We created a table that stores our members' ids and passwords. When users enter the supervisor page, it will display the login page, in which users have to provide their username and password before they can access the actual quiz supervisor page. Not all usernames and passwords are allowed, only the ones that match the data we stored in the table. The quiz supervisor page is considered one of the most crucial web pages for the website as it takes part in analyzing the quiz result, by limiting the access of this page will increase security for the data as well.</p>
+			  <p>&nbsp;&nbsp;&nbsp;I provided more secure access to the supervisor page by allowing only the people in charge can access the page. I created a table that stores our members' ids and passwords. When users enter the supervisor page, it will display the login page, in which users have to provide their username and password before they can access the actual quiz supervisor page. Not all usernames and passwords are allowed, only the ones that match the data I stored in the table. The quiz supervisor page is considered one of the most crucial web pages for the website as it takes part in analyzing the quiz result, by limiting the access of this page will increase security for the data as well.</p>
         <!--What programmers do to implement this feature-->
         
         <p>Below are the significant code for this feature:</p>
