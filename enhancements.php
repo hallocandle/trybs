@@ -24,7 +24,7 @@
 				</li>
 			</ul>
 			<!--how it goes beyond the basic requirements of the assignment -->
-			<p>&nbsp;&nbsp;&nbsp;Our group has enhanced the presentation of one of the webite's content by creating
+			<p>&nbsp;&nbsp;&nbsp;I have enhanced the presentation of one of the webite's content by creating
 				vocabulary cards. At the front of the card will show the terms, and when the users hover the mouse over
 				each card, it will flip to the back of the card where their definitions are located. This feature
 				presented the definition in a more creative and interesting style rather than just lists of texts. We
@@ -103,14 +103,14 @@
 			<p>&nbsp;&nbsp;&nbsp;This feature is applied to the History page for presenting the development of logos. It
 				provides different styles of animation for both texts and images, with "grow" style for logos' images
 				and "rotate in down left" style for the logo's description.
-				We also applied the "gelatine" style to the dropdown on navigation bar. This feature not only gives
+				I also applied the "gelatine" style to the dropdown on navigation bar. This feature not only gives
 				users unique experiences when hovering over our website's dropdown, but it also helps users to clearly
 				notice topics that they are hovering.
-				This feature has extended the basic HTML and CSS beyond what we have learned in the lectures and
+				This feature has extended the basic HTML and CSS beyond what I have learned in the lectures and
 				tutorials as it needs to specify keyframes for the animation code and the duration of the animation in
-				the element that we want to apply the feature to. We have to define directions or scale for each
+				the element that I want to apply the feature to. I have to define directions or scale for each
 				transformation.
-				In this enhancement, we specified changes of style in both percentage and keywords, where 0% or "from"
+				In this enhancement, I specified changes of style in both percentage and keywords, where 0% or "from"
 				is the beginning of the animation, and 100% or "to" indicates that the animation is complete.
 			</p>
 			<!--Code for this feature-->
@@ -174,26 +174,26 @@
 				</li>
 			</ul>
 			<!--how it goes beyond the basic requirements of the assignment -->
-			<p>&nbsp;&nbsp;&nbsp;For another enhancement, we enhanced the website to be a mobile-friendly website to
+			<p>&nbsp;&nbsp;&nbsp;For another enhancement, I enhanced the website to be a mobile-friendly website to
 				support the mobile users to read our content more conveniently. In order to creating mobile version for
-				the website, we have to create another CSS stylesheet and resize the HTML elements like texts and
+				the website, I have to create another CSS stylesheet and resize the HTML elements like texts and
 				images. The responsive CSS works by checking whether the window size is above or below 768px. If it is
 				below, the html automatically applies our second CSS stylesheet that reformats the page for a mobile
-				friendly experience. Our website supports all type of users' gadgets whether it be laptops, mobiles, or
+				friendly experience. My website supports all type of users' gadgets whether it be laptops, mobiles, or
 				tablets to give each user the best experience while exploring our website. You can see this enhancement
-				on every page of the website. Try it out on our home page! Don't forget to resize your browser window
+				on every page of the website. Try it out on my home page! Don't forget to resize your browser window
 				first to see the difference!
 
 			</p>
 			<!--Code for this feature-->
-			<p>In order to make this feature works, we first need to define the different CSS style sheet in
-				&lt;head&gt; tag on HTML page for different screensize conditions. Below is the format that we use:</p>
+			<p>In order to make this feature works, I first need to define the different CSS style sheet in
+				&lt;head&gt; tag on HTML page for different screensize conditions. Below is the format that I use:</p>
 			<p>
 				<code>&lt;link href="styles/style.css" rel="stylesheet" media="screen and (min-width:768px)"/&gt;
 					<br>&lt;link href="styles/style2.css" rel="stylesheet" media="screen and (max-width:768px)"/&gt;
 					</code>
 			</p>
-			<p>Then, we will resize the content elements to be bigger on the mobile-version stylesheet. Below are the
+			<p>Then, I will resize the content elements to be bigger on the mobile-version stylesheet. Below are the
 				codes comparison between original version and responsive version:</p>
 			<div class="column">
 				<p>Original Version</p>
