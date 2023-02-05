@@ -23,15 +23,7 @@
 				<li class="gelatine"><a href="login.php">Supervisor</a></li>
 			</ul>
 		</li>
-		<li><a href="about.php">About Us</a>
-			<ul>
-				<li class="gelatine"><a href="mailto:103712191@student.swin.edu.au">Erik Fanning</a></li>
-				<li class="gelatine"><a href="mailto:103837447@student.swin.edu.au">Pantaree (Japan) Wechsathol</a></li>
-				<li class="gelatine"><a href="mailto:103964756@student.swin.edu.au">Sarah Rhee</a></li>
-				<li class="gelatine"><a href="mailto:103146350@student.swin.edu.au">Jiaxuan (Alina) Feng</a></li>
-				<li class="gelatine"><a href="mailto:104034485@student.swin.edu.au">Vani Chopra</a></li>
-			</ul>
-		</li>
+
 		<li><a href="enhancements.php">Enhancements</a></li>
 		<li><a href="phpenhancements.php">PHP Enhancements</a></li>
 		<li><a href="references.php">References</a></li>
