@@ -1,1 +1,1 @@
-# BS Educational Site
+Bootstrap Educational Site
